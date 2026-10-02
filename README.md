@@ -10,11 +10,17 @@ Once Analytics is a professional data analytics agency focusing on workforce int
 This project provides an interactive **Executive Dashboard** acting as a single source of truth to empower stakeholders with actionable, data-driven insights into the evolving global AI job market.
 
 ## 📸 Dashboard Previews
-<video src="https://github.com/user-attachments/assets/YOUR-VIDEO-ID-HERE" muted playsinline width="100%" controls></video>
+<video src="https://github.com/user-attachments/assets/e6d92deb-1c0d-4932-a8ad-6f6b8472d720" muted playsinline width="100%" controls></video>
 
 ## 🗄️ Data Architecture & Modeling
-To ensure efficient processing and accurate metric calculations, the data was structured cleanly to support dual-page navigation and dynamic global filtering.
+To ensure efficient processing and accurate metric calculations, the data was structured cleanly using a relational model approach.
 
+<img width="1076" height="382" alt="Screenshot 2026-10-03 002015" src="https://github.com/user-attachments/assets/f8d2c883-a2bd-483e-abea-c864106032bd" />
+
+*   **Fact Table**: `Fact_JobPostings` (Core transactional table containing job postings, posting dates, and application deadlines).
+*   **Dimension Tables**: `Dim_Date` (for temporal analysis) and `Dim_JobSkills` (for technical skill granularities).
+*   **Measure Table**: Dedicated container for organized DAX calculations.
+  
 *   **Executive Summary Page**: High-level KPIs and multi-dimensional charts tracking monthly trends, salary distribution by experience, work models, top skills, and competitive roles.
 *   **Detailed Records Page**: Granular grid view providing full record-level transparency with optimized column visibility, data bars, and metadata footnotes.
 
