@@ -1,8 +1,7 @@
 # Once Analytics: AI Job Market Analytics Dashboard 📊
 
 **Author**: Rendi Dwi Andika  
-**Tools Used**: Power BI, Power Query, DAX, SVG UI Design  
-**Portfolio Link**: [Insert Web Link Here]
+**Tools Used**: Power BI, Power Query, DAX
 
 ## 📌 Project Overview
 Once Analytics is a professional data analytics agency focusing on workforce intelligence and labor market trends. With thousands of global job openings, salary records, and applicant data points spanning 2025–2026, management and job seekers required a unified, high-precision analytics platform. 
