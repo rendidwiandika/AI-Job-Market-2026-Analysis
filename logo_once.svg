@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 140" width="100%" height="100%">
+    <!-- Icon Kipas Kiri -->
+    <g transform="translate(65, 62) scale(1.55)">
+        <g fill="#A6D1EA">
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(-85)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(-68)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(-51)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(-34)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(-17)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(0)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(17)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(34)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(51)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(68)" />
+            <polygon points="-8,-1 -50,-5 -50,5 -8,1" transform="rotate(85)" />
+        </g>
+    </g>
+    
+    <!-- Teks Merek Utama (Ukuran Diperbesar) -->
+    <text x="130" y="62" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+        <tspan font-weight="900" font-size="52" fill="#FFFFFF">ONCE</tspan>
+        <tspan font-weight="300" font-size="52" fill="#A6D1EA" dx="6">Analytics</tspan>
+    </text>
+    
+    <!-- Slogan (Diperbesar ukurannya dan dibuat lebih tebal agar terbaca jelas) -->
+    <text x="133" y="102" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="600" font-style="italic" fill="#FFFFFF" letter-spacing="0.8">One in a million insights.</text>
+</svg>
